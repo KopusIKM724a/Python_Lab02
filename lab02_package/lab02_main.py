@@ -1,7 +1,6 @@
 # lab02_main.py
-# Основна програма для обробки показників системи "розумний будинок"
 
-import sensors as sm # підключення модулю
+import sensors as sm 
 
 def parse_input(input_str):
     """Перетворює введений рядок на список чисел."""
